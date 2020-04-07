@@ -5,7 +5,7 @@ This project exists to scrape, de-duplicate, and cross-check county-level data o
 
 Every piece of data includes GeoJSON and population data, cites the source from which the data was obtained, and includes a rating of the source's technical quality (completeness, machine readability, best practices -- not accuracy).
 
-## Where's the data?
+## Where's the datas?
 
 https://coronadatascraper.com/
 
